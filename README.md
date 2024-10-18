@@ -1,8 +1,6 @@
 ## Olá! Eu sou o Lucas Nascimento 👋
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=devlucas05&show_icons=true&theme=dracula&hide=contribs,prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devlucas05&layout=compact)
-
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
