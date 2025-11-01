@@ -44,10 +44,4 @@ Acredito que a combinação entre código, dados e criatividade é o que molda o
 
 ---
 
-<p align="center">
-  <img src="https://media.tenor.com/Vc8WnQ0GkgIAAAAC/one-piece-luffy.gif" width="90">
-</p>
-
----
-
 ⭐ _"O sucesso vem para quem nunca para de aprender."_  
