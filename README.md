@@ -31,10 +31,6 @@ Plataforma de qualidade e segurança de código num único executável em Go. Fa
 
 `Go` `SQLite` `LSP` `MCP`
 
-### chat-rt *(repositório privado)*
-Comunidade com chat em tempo real, voz, câmera e transmissão de tela.
-
-`TypeScript` `React` `Fastify` `LiveKit` `PostgreSQL`
 
 ## Tecnologias
 
