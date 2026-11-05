@@ -18,18 +18,22 @@ Trabalho principalmente com Python e TypeScript: APIs assíncronas, pipelines RA
 
 ### [Scriptura AI](https://github.com/DevLucas05/scriptura-ai-public)
 Micro-SaaS que gera estudos bíblicos personalizados com LLMs. Usa RAG sobre a Bíblia NVI (ChromaDB e Sentence-Transformers), adapta a linguagem do texto à faixa etária do público e alterna entre Ollama (local) e Groq (nuvem) sem mudar código.
+
 `Python` `FastAPI` `ChromaDB` `Ollama` `Groq` `React 19` `Tailwind CSS 4`
 
 ### Foco *(repositório privado)*
 App Android de produtividade para pessoas com TDAH, offline-first e em português. Tem tarefas em lista e Kanban, Pomodoro, plano diário e widgets na tela inicial. O SQLite do aparelho é a fonte da verdade e a sincronização não trava a interface. O backend tem autenticação JWT com rotação de refresh token, integração com Google Agenda e funções de exportação e exclusão de dados (LGPD). O CI no GitHub Actions roda mais de 500 testes automatizados.
+
 `Flutter` `Dart` `Riverpod` `Kotlin` `FastAPI` `PostgreSQL` `Alembic`
 
 ### Farol *(repositório privado)*
 Plataforma de qualidade e segurança de código num único executável em Go. Faz análise estática em várias linguagens, detecção de segredos, análise de dependências e quality gates. Tem servidor com interface web embutida e integra com editores (LSP) e com agentes de IA (MCP). Também inclui um módulo de varredura de vulnerabilidades de rede com plugins assinados.
+
 `Go` `SQLite` `LSP` `MCP`
 
 ### chat-rt *(repositório privado)*
 Comunidade com chat em tempo real, voz, câmera e transmissão de tela.
+
 `TypeScript` `React` `Fastify` `LiveKit` `PostgreSQL`
 
 ## Tecnologias
