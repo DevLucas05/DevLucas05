@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="316" viewBox="0 0 480 316" role="img">
+<title>Linguagens que mais uso: Dart 30,8%, Go 30,8%, JavaScript 14,0%, Python 7,8%, TypeScript 4,1%, HTML 4,1%, CSS 2,8%, Outras 5,6%</title>
+<style>
+  text { font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; fill: #1f2328; }
+  .sub, .rodape { fill: #59636e; }
+  .barra { fill: #0969da; }
+  @media (prefers-color-scheme: dark) {
+    text { fill: #f0f6fc; }
+    .sub, .rodape { fill: #9198a1; }
+    .barra { fill: #4493f8; }
+  }
+</style>
+<text x="24" y="34" font-size="18" font-weight="600">Linguagens que mais uso</text>
+<text class="sub" x="24" y="56" font-size="12">Volume de código em todos os meus repositórios, públicos e privados</text>
+<circle cx="29" cy="87" r="5" fill="#00B4AB"/><text x="42" y="91" font-size="13">Dart</text><rect class="barra" x="150" y="83" width="250.0" height="8" rx="4"/><text x="456" y="91" font-size="13" text-anchor="end">30,8%</text>
+<circle cx="29" cy="113" r="5" fill="#00ADD8"/><text x="42" y="117" font-size="13">Go</text><rect class="barra" x="150" y="109" width="249.6" height="8" rx="4"/><text x="456" y="117" font-size="13" text-anchor="end">30,8%</text>
+<circle cx="29" cy="139" r="5" fill="#f1e05a"/><text x="42" y="143" font-size="13">JavaScript</text><rect class="barra" x="150" y="135" width="113.8" height="8" rx="4"/><text x="456" y="143" font-size="13" text-anchor="end">14,0%</text>
+<circle cx="29" cy="165" r="5" fill="#3572A5"/><text x="42" y="169" font-size="13">Python</text><rect class="barra" x="150" y="161" width="63.4" height="8" rx="4"/><text x="456" y="169" font-size="13" text-anchor="end">7,8%</text>
+<circle cx="29" cy="191" r="5" fill="#3178c6"/><text x="42" y="195" font-size="13">TypeScript</text><rect class="barra" x="150" y="187" width="33.0" height="8" rx="4"/><text x="456" y="195" font-size="13" text-anchor="end">4,1%</text>
+<circle cx="29" cy="217" r="5" fill="#e34c26"/><text x="42" y="221" font-size="13">HTML</text><rect class="barra" x="150" y="213" width="32.9" height="8" rx="4"/><text x="456" y="221" font-size="13" text-anchor="end">4,1%</text>
+<circle cx="29" cy="243" r="5" fill="#663399"/><text x="42" y="247" font-size="13">CSS</text><rect class="barra" x="150" y="239" width="22.5" height="8" rx="4"/><text x="456" y="247" font-size="13" text-anchor="end">2,8%</text>
+<circle cx="29" cy="269" r="5" fill="#8b949e"/><text x="42" y="273" font-size="13">Outras</text><rect class="barra" x="150" y="265" width="45.3" height="8" rx="4"/><text x="456" y="273" font-size="13" text-anchor="end">5,6%</text>
+<text class="rodape" x="24" y="302" font-size="11">Atualizado em 04/11/2026</text>
+</svg>
